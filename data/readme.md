@@ -33,7 +33,7 @@ Example
 ```json
 {
       "name"    : "pradeep kumar",
-      "salary"  : 10000/-,
+      "salary"  : 10000,
       "Student" : false,
       "bonus"   : null,
 
