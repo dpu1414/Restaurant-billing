@@ -36,6 +36,11 @@ Example
       "salary"  : 10000,
       "Student" : false,
       "bonus"   : null,
+      "skills"  : ["java","office","photoshop"],
+      "address" : [
+              {"type":"home","location":"gorantla","pincode":522034},
+              {"type":"work","location":"guntur","pincode":522002}
 
+      ]
 }
 ```

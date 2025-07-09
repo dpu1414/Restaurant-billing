@@ -1,6 +1,6 @@
 Item name,Price,category,available
-veg pizza,80/-,fast food,yes
-veg burger,20/-,fast food,yes
-chicken pizza,115/-,fast food,no
-chicken burger,90/-,fast food,no
-french fries,70/-,starter,yes
+veg pizza,80,fast food,yes
+veg burger,20,fast food,yes
+chicken pizza,115,fast food,no
+chicken burger,90,fast food,no
+french fries,70,starter,yes
